@@ -11,7 +11,6 @@ When I'm not architecting the future of personalized coding mentorship at **BitM
 ## 🛠️ What I'm Working On
 * **BitMento:** An AI-driven educational technology platform providing logic-first, personalized coding mentorship. (DPIIT Recognized 🚀)
 * **FlowState:** A minimalist, high-performance task manager application built using pure vanilla JavaScript.
-* **Offline Tech:** Exploring decentralized communication technologies, local AI models, and LoRa mesh networks.
 
 ## 🧰 Tech Stack & Tools
 * **Languages:** JavaScript (ES6+), HTML5, CSS3
@@ -28,7 +27,7 @@ When I'm not architecting the future of personalized coding mentorship at **BitM
 ## 🤝 Let's Connect
 I'm always looking to collaborate with fellow builders, startup strategists, and tech visionaries. 
 
-* 💼 [Connect with me on LinkedIn](https://www.linkedin.com) *(Update with your link!)*
+* 💼 [[Connect with me on LinkedIn](https://www.linkedin.com)](https://www.linkedin.com/in/vaibhavirsawant/)
 * 🌐 [Visit BitMento](https://bitmento.com)
 
 *"Building logic-first solutions for a decentralized tomorrow."*
